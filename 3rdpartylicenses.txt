@@ -288,6 +288,9 @@ SOFTWARE.
 ngx-quill
 MIT
 
+ngx-scrollbar
+MIT
+
 ngx-toastr
 MIT
 The MIT License (MIT)
